@@ -1,2 +1,4 @@
 # IBM---Coursera-Projeto-Data-Science-and-AI-
-Projeto usando os dados do curso Data Science and AI
+Extrair dados essenciais de um conjunto de dados e exibi-los é uma parte necessária da ciência de dados; portanto, os indivíduos podem tomar decisões corretas com base nos dados. Nesta tarefa, você extrairá alguns indicadores econômicos essenciais de alguns dados e, em seguida, exibirá esses indicadores econômicos em um painel. Você tem a opção de hospedar o Dashboard no IBM Object Storage.
+
+O produto interno bruto (PIB) é uma medida do valor de mercado de todos os bens e serviços finais produzidos em um período. O PIB é um indicador de como a economia está indo. Uma queda no PIB indica que a economia está produzindo menos; da mesma forma, um aumento no PIB sugere que o desempenho da economia é melhor. Nesta tarefa, você examinará como as mudanças no PIB impactam a taxa de desemprego.
